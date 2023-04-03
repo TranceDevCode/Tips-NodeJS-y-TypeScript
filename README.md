@@ -12,4 +12,5 @@ yarn add typescript -DE
 
 yarn add ts-node -DE  
 
-ts-node src/index.ts -> Ejecutamos el archivo
+ts-node src/index.ts -> Nos permite ejecutar archivos TypeScript
+
