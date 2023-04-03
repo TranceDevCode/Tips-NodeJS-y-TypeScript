@@ -11,3 +11,5 @@ Instalacion de librerias para iniciar con TS en Node
 yarn add typescript -DE
 
 yarn add ts-node -DE  
+
+ts-node src/index.ts -> Ejecutamos el archivo
