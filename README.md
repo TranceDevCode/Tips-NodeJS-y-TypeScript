@@ -12,5 +12,13 @@ yarn add typescript -DE
 
 yarn add ts-node -DE  
 
+
 ts-node src/index.ts -> Nos permite ejecutar archivos TypeScript
+
+Agreganmos librerias de nuestra configuracion del proyecto: 
+yarn add nodemon prettier eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser -DE
+
+Agregamos nuestro Framework Express
+
+yarn add express
 
