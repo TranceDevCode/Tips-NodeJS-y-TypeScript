@@ -28,3 +28,7 @@ Agregamos nuestro script
     "dev": "ts-node src/index.ts"
   },
 
+
+con esta linea indicamos el archivo de entrada del proyecto:
+
+"main": "index.ts",
