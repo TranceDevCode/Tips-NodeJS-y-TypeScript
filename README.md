@@ -22,3 +22,9 @@ Agregamos nuestro Framework Express
 
 yarn add express
 
+Agregamos nuestro script
+
+"scripts": {
+    "dev": "ts-node src/index.ts"
+  },
+
